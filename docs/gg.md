@@ -1,6 +1,5 @@
 ## GG
 
 #### Gucci
-![RUNOOB 图标](./imgs/fd01.jpg)
-![RUNOOB 图标](./imgs/fd02.jpg)
-![RUNOOB 图标](./imgs/fd03.jpg)
+![RUNOOB 图标](./imgs/gg1.png)
+![RUNOOB 图标](./imgs/gg2.png)
