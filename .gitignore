@@ -1,0 +1,9 @@
+.idea
+*.iml
+target
+node_modules
+.iml
+/.idea
+/*/*.iml
+/mnt-confcenter/mnt-confcenter.iml
+logs
